@@ -1,0 +1,81 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: -webkit-linear-gradient(top, #959595 0%, #0d0d0d 46%, #010101 50%, #0a0a0a 53%, #4e4e4e 76%, #383838 87%, #1b1b1b 100%);
+  color: white;
+}
+
+header {
+  height: 30%;
+  max-height: 30%;
+  display: block;
+  margin-bottom: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: right;
+  font-size: 1em;
+  height: 100%;
+  width: 25%;
+  margin-left: 64.9%;
+  display: inline-table;
+}
+
+.login {
+  display: inline-block;
+  background-color: gray;
+  border-radius: 1em;
+  font-size: 1em;
+  margin-left: 85%
+}
+
+.Row {
+  text-align: center;
+  height: 39%;
+  width: 100%;
+}
+
+img {
+  width: "50%";
+  height: "50%";
+}
+
+.picture {
+  margin: 0 1%;
+  display: inline-block;
+  height: 100%;
+  max-height: 100%;
+  width: 25%;
+  max-width: 25%;
+  vertical-align: top;
+}
+
+#descript {
+  text-align: center;
+  height: 100%;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.button {
+  border-radius: 1em;
+  appearance: button;
+  margin-left: 55%
+}
+
+.footer {
+  background-color: black;
+  font-size: .7em;
+  text-align: center;
+  max-height: 15%;
+  width: 100%;
+}
